@@ -1,0 +1,9 @@
+C:\source\GameDev\ParticleEngine\ParticleEngine\bin\Release\ParticleEngine.exe.config
+C:\source\GameDev\ParticleEngine\ParticleEngine\bin\Release\ParticleEngine.exe
+C:\source\GameDev\ParticleEngine\ParticleEngine\bin\Release\ParticleEngine.pdb
+C:\source\GameDev\ParticleEngine\ParticleEngine\obj\Release\ParticleEngine.ParticleWindow.resources
+C:\source\GameDev\ParticleEngine\ParticleEngine\obj\Release\ParticleEngine.Properties.Resources.resources
+C:\source\GameDev\ParticleEngine\ParticleEngine\obj\Release\ParticleEngine.csproj.GenerateResource.Cache
+C:\source\GameDev\ParticleEngine\ParticleEngine\obj\Release\ParticleEngine.exe
+C:\source\GameDev\ParticleEngine\ParticleEngine\obj\Release\ParticleEngine.pdb
+C:\source\GameDev\ParticleEngine\ParticleEngine\obj\Release\ParticleEngine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\source\GameDev\ParticleEngine\BallisticsEngine\obj\Debug\BallisticsEngine.csprojResolveAssemblyReference.cache
+C:\source\GameDev\ParticleEngine\BallisticsEngine\obj\Debug\BallisticsEngine.Properties.Resources.resources
+C:\source\GameDev\ParticleEngine\BallisticsEngine\obj\Debug\BallisticsEngine.csproj.GenerateResource.Cache
+C:\source\GameDev\ParticleEngine\BallisticsEngine\bin\Debug\BallisticsEngine.exe.config
+C:\source\GameDev\ParticleEngine\BallisticsEngine\bin\Debug\BallisticsEngine.exe
+C:\source\GameDev\ParticleEngine\BallisticsEngine\bin\Debug\BallisticsEngine.pdb
+C:\source\GameDev\ParticleEngine\BallisticsEngine\obj\Debug\BallisticsEngine.exe
+C:\source\GameDev\ParticleEngine\BallisticsEngine\obj\Debug\BallisticsEngine.pdb
+C:\source\GameDev\ParticleEngine\BallisticsEngine\obj\Debug\BallisticsEngine.BallisticsWindow.resources

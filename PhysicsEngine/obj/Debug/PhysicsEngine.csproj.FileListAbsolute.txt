@@ -1,0 +1,13 @@
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\PhysicsEngine.exe.config
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\PhysicsEngine.exe
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\PhysicsEngine.pdb
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\BallisticsEngine.exe
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\ParticleEngine.exe
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\BallisticsEngine.pdb
+C:\source\GameDev\ParticleEngine\PhysicsEngine\bin\Debug\ParticleEngine.pdb
+C:\source\GameDev\ParticleEngine\PhysicsEngine\obj\Debug\PhysicsEngine.csprojResolveAssemblyReference.cache
+C:\source\GameDev\ParticleEngine\PhysicsEngine\obj\Debug\PhysicsEngine.HomeScreen.resources
+C:\source\GameDev\ParticleEngine\PhysicsEngine\obj\Debug\PhysicsEngine.Properties.Resources.resources
+C:\source\GameDev\ParticleEngine\PhysicsEngine\obj\Debug\PhysicsEngine.csproj.GenerateResource.Cache
+C:\source\GameDev\ParticleEngine\PhysicsEngine\obj\Debug\PhysicsEngine.exe
+C:\source\GameDev\ParticleEngine\PhysicsEngine\obj\Debug\PhysicsEngine.pdb
